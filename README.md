@@ -8,12 +8,12 @@
 ```
 ### 위 기존 url 값 변경 전
 ``` 
- [[IPRONWebCall alloc]initWithURL: "도메인/**WebCallAPI**/~"];
+ [[IPRONWebCall alloc]initWithURL: "도메인/__WebCallAPI__/~"];
 ```
 
 ### 위 기존 url 값 변경 후
 ``` 
- [[IPRONWebCall alloc]initWithURL: "도메인/**WebCallAPI_WK**/~"];
+ [[IPRONWebCall alloc]initWithURL: "도메인/__WebCallAPI_WK__/~"];
 ```
 
 
